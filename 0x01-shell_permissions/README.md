@@ -10,3 +10,4 @@ Task 8 - Script that sets the permission to the file hello;Owner: no permission 
 Task 9 - Script that sets the mode of the file hello in long format.
 Task 10 - Script that sets the mode of the file hello the same as olleh’s mode.
 Task 11 - Script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users.
+Task 12 - Script that creates a directory called my_dir with permissions 751 in the working directory.
