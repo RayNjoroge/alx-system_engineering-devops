@@ -3,3 +3,4 @@ Task 1 - Printing current user.
 Task 2 - Printing all groups the current user is part of.
 Task 3 - Changing the file hello owner to user betty.
 Task 4 - Script that creates an empty file hello.
+Task 5 - Adding execute permission to the owner of the file hello.
