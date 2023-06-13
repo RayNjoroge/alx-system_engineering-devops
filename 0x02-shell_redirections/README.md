@@ -20,5 +20,6 @@ Task - 18 Display all lines of the file /etc/ssh/sshd_config starting with a let
 Task - 19 Replace all characters A and c from input to Z and e respectively.
 Task - 20 Without C, you would live in hiago 
 Task - 21 Write a script that reverse its input.
+Task - 22 Script that displays all users and their home directories, sorted by users.
 
 
