@@ -22,5 +22,6 @@ Task - 20 Without C, you would live in hiago
 Task - 21 Write a script that reverse its input.
 Task - 22 Script that displays all users and their home directories, sorted by users.
 Task - 23 Command that finds all empty files and directories in the current directory and all sub-directories.
+Task - 24 Script that lists all the files with a .gif extension in the current directory and all its sub-directories.
 
 
