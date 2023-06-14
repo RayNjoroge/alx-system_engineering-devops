@@ -21,5 +21,6 @@ Task - 19 Replace all characters A and c from input to Z and e respectively.
 Task - 20 Without C, you would live in hiago 
 Task - 21 Write a script that reverse its input.
 Task - 22 Script that displays all users and their home directories, sorted by users.
+Task - 23 Command that finds all empty files and directories in the current directory and all sub-directories.
 
 
