@@ -1,16 +1,17 @@
-Task - 0 Script that creates an alias.
-Task - 1 Script that prints hello user, where user is the current Linux user.
-Task - 2 Add /action to the PATH. /action should be the last directory the shell looks into when looking for a program.
-Task - 3 Script that counts the number of directories in the PATH.
-Task - 4 Script that lists environment variables.
-Task - 5 Script that lists all local variables and environment variables, and functions.
-Task - 6 Script that creates a new local variable.
-Task - 7 Script that creates a new global variable.
-Task - 8 Script that prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line.
-Task - 9 Script that prints the result of POWER divided by DIVIDE, followed by a new line.
-Task - 10 Script that displays the result of BREATH to the power LOVE.
-Task - 11 Script that converts a number from base 2 to base 10.
-Task - 12 Script that prints all possible combinations of two letters, except oo.
-Task - 13 Script that prints a number with two decimal places, followed by a new line.
-Task - 14 Script that converts a number from base 10 to base 16.
-Task - 15 Script that encodes and decodes text using the rot13 encryption. Assume ASCII.
+Task - 0 Script that creates an alias.'\n'
+Task - 1 Script that prints hello user, where user is the current Linux user.'\n'
+Task - 2 Add /action to the PATH. /action should be the last directory the shell looks into when looking for a program.'\n'
+Task - 3 Script that counts the number of directories in the PATH.'\n'
+Task - 4 Script that lists environment variables.'\n'
+Task - 5 Script that lists all local variables and environment variables, and functions.'\n'
+Task - 6 Script that creates a new local variable.'\n'
+Task - 7 Script that creates a new global variable.'\n'
+Task - 8 Script that prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line.'\n'
+Task - 9 Script that prints the result of POWER divided by DIVIDE, followed by a new line.'\n'
+Task - 10 Script that displays the result of BREATH to the power LOVE.'\n'
+Task - 11 Script that converts a number from base 2 to base 10.'\n'
+Task - 12 Script that prints all possible combinations of two letters, except oo.'\n'
+Task - 13 Script that prints a number with two decimal places, followed by a new line.'\n'
+Task - 14 Script that converts a number from base 10 to base 16.'\n'
+Task - 15 Script that encodes and decodes text using the rot13 encryption. Assume ASCII.'\n'
+Task - 16 Script that prints every other line from the input, starting with the first line.'\n'
